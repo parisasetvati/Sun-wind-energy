@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Material Design Icons";
+  src: url("../font/MaterialDesign/fonts/materialdesignicons-webfont.eot?v=4.6.95");
+  src: url("../font/MaterialDesign/fonts/materialdesignicons-webfont.eot?#iefix&v=4.6.95") format("embedded-opentype"), url("../font/MaterialDesign/fonts/materialdesignicons-webfont.woff2?v=4.6.95") format("woff2"), url("../font/MaterialDesign/fonts/materialdesignicons-webfont.woff?v=4.6.95") format("woff"), url("../font/MaterialDesign/fonts/materialdesignicons-webfont.ttf?v=4.6.95") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: MIRANSans;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../font/IRANSans/eot/IRANSansWeb_Medium.eot");
+  src: url("../font/IRANSans/eot/IRANSansWeb_Medium.eot?#iefix") format("embedded-opentype"), url("../font/IRANSans/woff2/IRANSansWeb_Medium.woff2") format("woff2"), url("../font/IRANSans/woff/IRANSansWeb_Medium.woff") format("woff"), url("../font/IRANSans/ttf/IRANSansWeb_Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../font/IRANSans/eot/IRANSansWeb.eot");
+  src: url("../font/IRANSans/eot/IRANSansWeb.eot?#iefix") format("embedded-opentype"), url("../font/IRANSans/woff2/IRANSansWeb.woff2") format("woff2"), url("../font/IRANSans/woff/IRANSansWeb.woff") format("woff"), url("../font/IRANSans/ttf/IRANSansWeb.ttf") format("truetype"); }
+html, body {
+  font-family: IRANSans,tahoma,'Cabin',sans-serif;
+  margin: 0;
+  padding: 0;
+  /* width: 100%;
+  height: 100%; */
+  line-height: 1.7;
+  font-size: 11pt; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.example{
+  position: relative;
+  padding: 20px;
+  
+  
+}
+ .divpadding{
+ 
+  color:rgb(2, 2, 2);
+  
+  text-align: center;
+  background: red;
+}
+

@@ -1,0 +1,17 @@
+// nazarat
+.frm{
+    position: relative;
+    margin: 50px auto;
+    border:2px solid #ccc;
+    padding: 20px;
+@include textalign(center);
+    .frm-email{
+        position: relative;
+        margin: 20 auto;
+    }
+    .frm-nazarat{
+        position: relative;
+        margin: 20 auto;
+        
+    }
+}
